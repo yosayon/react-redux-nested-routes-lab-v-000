@@ -9,7 +9,7 @@
 
 Congratulations, you're working at __Petfinder__! Before we get to browse all of the cute puppies and kittens, let's build them using a __React__ app with a couple of routes.
 
-You're coworkers have already built out a __PetsPage__ component to render out a list of all the Pets. Your assignment is as follows.
+Your coworkers have already built out a __PetsPage__ component to render out a list of all the Pets. Your assignment is as follows.
 
 1. Create a __Route__ so that visiting `/pets` displays the __PetsPage__ component and renders the list of pets.
 2. Visiting '/pets/:petId' should display some detailed information about a particular pet.
